@@ -1,8 +1,8 @@
-# 👽 Alien Invasion
+# :alien: Alien Invasion
 Alien invasion is a clone of popular arcade game with same name.
 I created this game by following the "Python Crash Course" book. The reason was to improve my python skills.
 
-## 🚀 Introduction
+## :rocket: Introduction
 > In Alien Invasion, the player controls a ship that appears at
 the bottom center of the screen. The player can move the ship
 right and left using the arrow keys and shoot bullets using the
