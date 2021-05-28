@@ -42,3 +42,7 @@ $ python alien_invasion.py
 ``` 
 
 Enjoy!
+
+<img src="images/Alien_Invasion_1.png" alt="Alien Invasion Screenshot" width="250px">
+<img src="images/Alien_Invasion_2.png" alt="Alien Invasion Screenshot" width="250px">
+<img src="images/Alien_Invasion_3.png" alt="Alien Invasion Screenshot" width="250px">
